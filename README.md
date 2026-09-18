@@ -1,1 +1,1 @@
-# cyber-dodge
+Cyber Dodge is an intense, retro-futuristic survival game built natively for the web. Set in a glowing neon grid, players must dodge falling energy hazards, grab green shield power-ups, and hold out as long as possible while difficulty scales in real-time. It features smooth canvas physics, responsive touch/pointer tracking, and persistent score saving with zero external dependencies.
